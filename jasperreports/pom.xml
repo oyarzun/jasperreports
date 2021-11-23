@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.sf.jasperreports</groupId>
 	<artifactId>jasperreports</artifactId>
-	<version>6.17.0-poi5</version>
+	<version>6.18.1-poi5</version>
 	<packaging>jar</packaging>
 	<name>JasperReports Library</name>
 	<description>Free Java Reporting Library</description>
@@ -150,14 +150,14 @@
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>5.0.0</version>
+			<version>5.1.0</version>
 			<scope>compile</scope>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
-			<version>5.0.0</version>
+			<version>5.1.0</version>
 			<scope>compile</scope>
 			<optional>true</optional>
 			<exclusions>
